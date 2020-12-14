@@ -1,4 +1,6 @@
+/* eslint-disable max-len */
 /* eslint-disable array-bracket-spacing */
+
 const assert = require('assert');
 const tasks = require('../src/06-objects-tasks');
 it.optional = require('../extensions/it-optional');

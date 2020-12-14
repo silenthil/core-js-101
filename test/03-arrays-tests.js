@@ -1,3 +1,5 @@
+/* eslint-disable max-len */
+/* eslint-disable linebreak-style */
 const assert = require('assert');
 const tasks = require('../src/03-arrays-tasks');
 it.optional = require('../extensions/it-optional');

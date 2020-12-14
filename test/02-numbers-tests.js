@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 const assert = require('assert');
 const tasks = require('../src/02-numbers-tasks');
 it.optional = require('../extensions/it-optional');
